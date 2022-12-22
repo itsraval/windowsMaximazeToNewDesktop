@@ -1,6 +1,6 @@
 # Windows Maximaze To New Desktop as on macOS
 This AutoHotkey script tries to replicate the macOS experience for managing windows on multiple desktops in windows 11.
-
+With a few simple shortcuts you can maximaze a Window directly into a new Desktop and then use the Windows11 gestures to move around quickly as in macOS. 
 
 # Commands
 
@@ -11,7 +11,8 @@ This command has different action based on the current Desktop and the windows i
 - If the window is already maximized, the window will be restored to the previous size.
 - The window will be maximized in the same Desktop
 ### The window is NOT the only one in the Desktop
-- The window will be maximized into a new Desktop
+- The window will be maximized into a new Desktop<br />
+This command needs a few seconds to complete this actions.
 
 ## Maximaze every Window in current Desktop into new Desktops
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd> <br />
@@ -27,6 +28,12 @@ This command needs a few seconds to complete this actions.
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Z</kbd> <br />
 Closes every Desktop with or without any Window open. Every Window will be moved to the only remaining Desktop open.
 
+
+# Disclaimer
+The script is not perfect!!! <br />
+Some commands need a few seconds to complete their actions. <br />
+The script is not "glitching" but is performing the action as a normal user will do.<br />
+If you have any suggestion or justwant to help, I am happy to collaborate. :)
 
 # Requirements
 
