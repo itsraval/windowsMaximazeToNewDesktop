@@ -6,6 +6,14 @@ This AutoHotkey script tries to replicate the macOS experience for managing wind
 
 ## Maximaze Window into new Desktop
 <kbd>Ctrl</kbd> + <kbd>M</kbd> <br />
+This command has different action based on the current Desktop and the windows in it.
+### The window is the only one in the Desktop
+- If the window is already maximized, the window will be restored to the previous size.
+- The window will be maximized in the same Desktop
+### The window is NOT the only one in the Desktop
+- The window will be maximized into a new Desktop
+- d
+- 
 Maximaze the current active window into a new Desktop.
 If the window 
 ; Maximaze Window into new Desktop
