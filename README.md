@@ -1,8 +1,10 @@
 # windowsMaximazeToNewDesktop
 This AutoHotkey script tries to replicate the macOS experience for managing windows on multiple desktops in windows 11.
 
+#Language
+ahk Version 1.1
 
-
+# Dependency
 https://github.com/FuPeiJiang/VD.ahk
 
 ; Maximaze Window into new Desktop
