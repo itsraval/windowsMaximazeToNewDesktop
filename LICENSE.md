@@ -1,8 +1,8 @@
 MIT License
 
-Copyright (c) 2022 Alessandro Ravizzotti
-https://github.com/itsraval
-https://alessandro.ravizzotti.dev
+Copyright (c) 2022 Alessandro Ravizzotti<br />
+https://github.com/itsraval<br />
+https://alessandro.ravizzotti.dev<br />
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
