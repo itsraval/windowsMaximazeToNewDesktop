@@ -46,5 +46,5 @@ After unpacking the zip you can simply put the folder unzipped folder in the sam
 #Include VD.ahk-class_VD\VD.ahk
 ```
 
-## Windows: 11
+## OS: Windows 11
 ## Language: ahk version 1.1
