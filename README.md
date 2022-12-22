@@ -12,13 +12,6 @@ This command has different action based on the current Desktop and the windows i
 - The window will be maximized in the same Desktop
 ### The window is NOT the only one in the Desktop
 - The window will be maximized into a new Desktop
-- d
-- 
-Maximaze the current active window into a new Desktop.
-If the window 
-; Maximaze Window into new Desktop
-; If the Window is already max and it is the only one in the desktop it will be restored to the previous size
-; Ctrl + M
 
 ## Maximaze every Window in current Desktop into new Desktops
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd> <br />
@@ -48,5 +41,3 @@ After unpacking the zip you can simply put the folder unzipped folder in the sam
 
 ## Windows: 11
 ## Language: ahk version 1.1
-
-
