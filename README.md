@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/itsraval/windowsMaximazeToNewDesktop/blob/main/windowsMaximazeToNewDesktop.png" width="200" height="200">
+
 # Windows Maximaze To New Desktop as on macOS
 This AutoHotkey script tries to replicate the macOS experience for managing windows on multiple desktops in Windows 11.
 With a few simple shortcuts, you can maximaze a Window directly into a new Desktop and then use the Windows 11 gestures to move around quickly as in macOS. 
